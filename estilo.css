@@ -1,0 +1,18 @@
+*{ margin: 0;
+
+}
+#topo{
+    background-image: url(Images/Carro-Topo.jpg);
+    background-size: cover;
+    height: 70vh;
+}
+.navbar{
+
+}
+.container-fluid{
+
+}
+.navbar-brand{
+    
+}
+
